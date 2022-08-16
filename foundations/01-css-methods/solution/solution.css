@@ -5,3 +5,12 @@ div {
   text-align: center;
   font-weight: bold;
 }
+
+.external header {
+  color: red;
+}
+
+/* #external header{
+  color: red;
+} */
+
